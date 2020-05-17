@@ -1,0 +1,244 @@
+
+     
+     /* -------------------------------- ESTILOS PARA PROJECTO 01: DEL AZAR, DEL POLVO Y DE LA NADA.-------------------- */
+
+ /*   Esta clase  le da margen y padding desde arriba hacia abajo para el contenido, es decir la galeria     */
+ .superiorcontainer{
+    margin-top: 100px;
+    padding-top:100px;
+}
+/*--------------------\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\------------------------*/
+
+                    /* GALERIA DE IMAGENES ( SISTEMA DE REJILLAS) */
+
+/* ESTILOS PARA LA PRIMERA LINEA DE LA GALERIA DE IMAGENES */
+
+.firstline{
+    max-height:220px;
+}
+      
+/*--------------------\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\------------------------*/
+
+
+/* ESTILOS PARA LA SEGUNDA LINEA GALERIA DE IMAGENES */
+
+
+.secondline-c{
+    top:-150px;
+}
+
+/*--------------------\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\------------------------*/
+
+/* ESTILOS PARA LA TERCERA LINEA DE LA GALERIA DE IMAGENES   */
+.thirdline {
+    max-height: 350px;
+}
+
+
+/*--------------------\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\------------------------*/
+
+
+/* ESTILOS PARA LA CUARTA LINEA DE LA GALERIA DE IMAGENES   */
+
+.fourline{
+    max-height: 500px;
+}
+.fourline-c{
+    top:-240px;
+}
+
+/*--------------------\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\------------------------*/
+
+
+/* ESTILOS PARA LA QUINTA FILA DE IMAGENES */
+
+.fiveline-a{
+    top:-100px;
+    left:30px;
+}
+
+/*--------------------\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\------------------------*/
+
+/* ESTILOS PARA LA SEXTA LINEA DE LA GALERIA DE IMAGENES */
+
+.sixline{
+    max-height:150px;
+}
+
+/*--------------------\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\------------------------*/
+
+/* ESTILOS PARA LA SEPTIMA LINEA DE LA GALERIA DE IMAGENES */ 
+
+.sevenline{
+    max-height: 200px;
+}
+
+.sevenline-a{
+    top: -240px;
+}
+
+/*--------------------\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\------------------------*/
+
+/* ESTILOS PARA LA OCTAVA LINEA DE GALERA DE IMAGENES */
+
+.eightline {
+    top:-130px;
+}
+.eightline-c{
+    right: 20px;
+}
+
+/*--------------------\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\------------------------*/
+
+/* ESTILOS PARA LA NOVENA LINEA DE LA GALERIA DE IMAGENES */ 
+
+.nineline{
+    top: -300px;
+}
+.nineline-a
+{
+    top:-300px;
+}
+
+/*--------------------\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\------------------------*/
+
+/* ESTILOS PARA LA DECIMA LINEA DE LA GALERIA DE IMAGENES */
+
+.tenline{
+    top:-250px;
+}
+
+/*--------------------\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\------------------------*/
+
+/* ESTILOS PARA LA ONCEAVA LINEA DE LA GALERIA DE IMAGENES */
+
+.elevenline{
+    top: -150px;
+}
+
+.elevenline-b{
+    max-height:300px;
+}
+
+/*--------------------\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\------------------------*/
+
+/* ESTILOS PARA LA DOCEABALINEA DE LA GALERIA DE IMAGENES */
+
+.twelveline {
+    top:-300px;
+}
+
+.twelveline-a{
+    max-height: 300px;
+}
+
+/*--------------------\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\------------------------*/
+
+/* ESTILOS PARA LA treceava LINEA DE LA GALERIA DE IMAGENES */
+
+.thirteen{
+    top:-180px;
+    left:20px;
+}
+
+.thirteen-a{
+    top:-190px;
+    max-height:230px;
+}
+
+/*--------------------\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\------------------------*/
+
+/* ESTILOS PARA LA DECIMOCUARTA LINEA DE LA GALERIA DE IMAGENES */
+
+.fourteen{
+    top:-480px;
+}
+
+.fourteen-a{
+    
+    max-height:400px; 
+}
+
+/*--------------------\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\------------------------*/
+
+/* ESTILOS PARA LA DECIMAQUINTA LINEA DE LA GALERIA DE IMAGENES */
+
+.fiveteen{
+    top:-350px;
+}
+
+/*--------------------\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\------------------------*/
+
+/* ESTILOS PARA LA DECISEXTA LINEA DE LA GALERIA DE IMAGENES */
+
+.sixteen{
+    top:-200px;
+}
+
+/*--------------------\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\------------------------*/
+
+/* ESTILOS PARA LA DECIMASEPTIMA LINEA DE LA GALERIA DE IMAGENES */
+
+.seventeen{
+    top: 150px;
+}
+
+/*--------------------\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\------------------------*/
+
+/* ESTILOS PARA LA DECIMAOCTAVA LINEA DE LA GALERIA DE IMAGENES */
+
+.eighteen-a{
+    top:250px;
+    left:25px;
+}
+.eighteen-c{
+    top:200px;
+    right:20px;
+}
+
+
+/*--------------------\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\------------------------*/
+
+/* ESTILOS PARA LA DECIMONOVENA LINEA DE LA GALERIA DE IMAGENES */
+
+.nineteen{
+    top:350px;
+}
+
+.nineteen-a{
+    top:350px;
+}
+
+/*--------------------\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\------------------------*/
+
+/* ESTILOS PARA LA VIGESIMA LINEA DE LA GALERIA DE IMAGENES */
+
+.twenty{
+    top:500px;
+}
+
+/*--------------------\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\------------------------*/
+
+/* ESTILOS PARA LA VIGESIMOPRIMERA LINEA DE LA GALERIA DE IMAGENES */
+
+.twentyone{
+    top:800px;
+}
+
+.twentyone-a{
+    top:560px;
+}
+
+/*--------------------\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\------------------------*/
+
+/* ESTILOS PARA LA VIGESIMOPRIMERA LINEA DE LA GALERIA DE IMAGENES */
+
+.twentytwo{
+    top:900px;
+}
+
+ /*  ----------------------------------------------------------------------------------------------------------------------   */
+/* MEDIAS QUERY PARA PANTALLAS */
+@media (min-width:330px)and(max-width:660px){
+
+}

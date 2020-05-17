@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+@import url(galeria.css);
+@import url(modals.css);
+@import url(lightbox.min.css);
+
+html,body{
+    font-family:'Open Sans',Arial, Helvetica, sans-serif;
+}
+.navbar{
+    background-color:white;
+}
+
+.navbar-item a:hover{
+    font-weight: bold;;
+}
+/*----------------- LANDING PAGE PROJECTS IMG and OVERLAYS TEXT ABOVE-------------------*/
+.container-img{
+    position:relative;
+    display:inline-block;
+    width:100%;
+}
+
+.overlay{
+    position: absolute;
+    top: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5); /* Black see-through */
+    color: #f1f1f1;
+    width: 100%;
+    transition: .5s ease;
+    opacity:0;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+    text-align: center;
+}
+
+.container-img:hover .overlay{
+    opacity:1;
+}
+
+span.invertirTexto {
+    unicode-bidi: bidi-override;
+    direction: rtl;
+}
+
+
+
+@media (min-width:424.98px)and(max-width:777.98px){
+
+}
+
+@media (max-width: 426px){
+
+}
+/*------------ mediaquery para que la pagina adquiera los siguientes estilos a partir de: 990px---------*/
+@media(min-width:990px){
+
+    /*--- estilos para el header (logo, navigation menu, y sociales) ---*/
+    .logo{
+            font-size:1.5rem;
+    }
+    
+    .navmenu{
+        font-size:1.1rem;
+    }
+    
+    .sociales{
+        font-size:1.1rem;
+    }
+
+}
